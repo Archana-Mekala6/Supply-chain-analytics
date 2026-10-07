@@ -72,7 +72,7 @@ Build an interactive dashboard to identify inventory and procurement issues, qua
 * W05 has the highest stockout rate (**7.5%**) but ranks 4th in lost revenue, so rate and revenue exposure must be tracked separately.
 * **5 of 8 warehouses** exceed the network average stockout rate of **5.94%**.
 
-### Page 2: Procurement & Replenishment Performance
+### Page 2: Procurement Performance
 
 * **3,500 unique purchase orders** analyzed.
 * **On-time delivery is only 36.9%** while PO fulfillment is **87.2%**: suppliers deliver the quantity, but late.
