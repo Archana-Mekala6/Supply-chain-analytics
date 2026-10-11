@@ -54,7 +54,7 @@ Build an interactive dashboard to identify inventory and procurement issues, qua
 * Standardized data types and categories
 * Built a star schema with fact and dimension relationships
 * Created a Date table
-* Found duplicate PO records during validation and used **unique PO counts** for procurement analysis
+
 
 ## Analysis
 
@@ -68,8 +68,8 @@ Build an interactive dashboard to identify inventory and procurement issues, qua
 
 ### Page 1: Inventory & Stock Risk
 
-* W04 has the highest shortage units (**2,348**) and the highest potential lost revenue (**₹49.8M, 15.3%** of ₹326M).
-* W05 has the highest stockout rate (**7.5%**) but ranks 4th in lost revenue, so rate and revenue exposure must be tracked separately.
+* Bengaluru warehouse has the highest shortage units (**2,348**) and the highest potential lost revenue (**₹49.8M, 15.3%** of ₹326M).
+* Chennai warehouse has the highest stockout rate (**7.5%**) but ranks 4th in lost revenue, so rate and revenue exposure must be tracked separately.
 * **5 of 8 warehouses** exceed the network average stockout rate of **5.94%**.
 
 ### Page 2: Procurement Performance
